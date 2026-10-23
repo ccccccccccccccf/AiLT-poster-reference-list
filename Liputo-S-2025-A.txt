@@ -1,0 +1,9 @@
+Liputo, S. (2025). Artificial intelligence in mental health: A narrative review innovation, ethics and the future [Conference paper]. Proceedings of the 7th International Seminar on Psychology (ISPsy 2025). https://doi.org/10.4108/eai.29-5-2025.2360824
+
+Fitzpatrick, K. K., Darcy, A., & Vierhile, M. (2017). Delivering cognitive behavior therapy to young adults with symptoms of depression and anxiety using a fully automated conversational agent (Woebot): A randomized controlled trial. JMIR Mental Health, 4(2), e19. https://doi.org/10.2196/mental.7785
+
+Technavio. (2025, August 2). Global AI in mental health market 2025–2029 [Report]. https://www.technavio.com/report/ai-in-mental-health-market-industry-analysis
+
+Miner, A. S., Laranjo, L., & Kocaballi, A. B. (2019). Chatbots in the clinical context. JAMA, 322(9), 891–892. https://doi.org/10.1001/jama.2019.11456
+
+Wysa Ltd. (2023). Wysa: Everyday mental health support [Mobile app]. https://www.wysa.io
